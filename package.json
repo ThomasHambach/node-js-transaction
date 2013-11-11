@@ -19,8 +19,7 @@
     "url": "https://github.com/ThomasHambach/node-js-transaction/issues"
   },
   "dependencies": {
-      "mocha": "*",
-      "argchecker": "*"
+      "mongojs": "*"
   },
   "private": true
 }
